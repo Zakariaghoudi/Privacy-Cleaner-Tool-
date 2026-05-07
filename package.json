@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "exif-be-gone": "^1.5.1",
+    "is-image": "^4.0.0"
+  }
+}
