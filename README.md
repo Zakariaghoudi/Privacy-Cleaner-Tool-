@@ -23,3 +23,16 @@
    ```bash
    git clone [https://github.com/Zakariaghoudi/Privacy-Cleaner-Tool-.git](https://github.com/Zakariaghoudi/Privacy-Cleaner-Tool-.git)
    cd Privacy-Cleaner-Tool-
+2. **Install dependencies
+    ```bash
+    npm install
+⚙️ **Usage
+    ```bash
+    node index.js 
+
+🛠 Built With
+
+* Node.js – JavaScript Runtime
+* Exif-be-gone – إزالة بيانات الـ metadata
+* FileSystem (FS) – التعامل مع الملفات
+    
