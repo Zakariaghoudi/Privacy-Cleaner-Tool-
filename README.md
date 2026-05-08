@@ -23,11 +23,11 @@
    ```bash
    git clone [https://github.com/Zakariaghoudi/Privacy-Cleaner-Tool-.git](https://github.com/Zakariaghoudi/Privacy-Cleaner-Tool-.git)
    cd Privacy-Cleaner-Tool-
-2. **Install dependencies
+2. Install dependencies
     ```bash
     npm install
-⚙️ **Usage
-    ```bash
+3. Usage
+    ```bash 
     node index.js 
 
 🛠 Built With
