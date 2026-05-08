@@ -35,4 +35,13 @@
 * Node.js – JavaScript Runtime
 * Exif-be-gone – إزالة بيانات الـ metadata
 * FileSystem (FS) – التعامل مع الملفات
-    
+  
+📱 Mobile Usage (iSH / Termux)
+This tool is perfect for on-the-go privacy:
+1.	Install Node.js: Run apk add nodejs npm in iSH.
+2.	Setup: Move your photos to the project folder using your file manager.
+3.	Execute: Run the script and get your "Cleaned" version instantly.
+🤝 Contributing & License
+• License: This project is licensed under the MIT License.
+• Contributing: Contributions, issues, and feature requests are welcome!
+Created with 🛡️ by Zakaria Ghoudi    
